@@ -1,2 +1,4 @@
 # Ignore IntelliJ folder
 .idea/
+# Ignore command
+.commands
